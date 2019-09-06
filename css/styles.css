@@ -1,0 +1,94 @@
+body {
+  margin: 0px;
+  text-align: center;
+  background-color: #fcf9ea;
+
+}
+h2{
+  font-family: 'Pacifico', cursive;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #105e62;
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #4f81c7;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #49beb7;
+  line-height: 2;
+  font-size: 18px;
+}
+.head {
+  position: relative;
+  margin-top: 50px;
+  color: powderblue;
+}
+
+.name {
+  font-family: serif;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin-bottom: 20px;
+  color: #57a99a;
+}
+
+.tag {
+  display: block;
+  font-size: 1.4rem;
+  font-family: 'Pacifico',cursive;
+  color: #7ecfc0;
+  font-weight:bold;
+}
+
+.mountain {
+  position: relative;
+  top:0px;
+  height: 20%;
+}
+.bird{
+  position: absolute;
+  height: 70px;
+  top: 50px;
+  left: 15%;
+}
+.birdr{
+  position: absolute;
+  height: 70px;
+  top: 50px;
+  left: 75%;
+}
+
+.person {
+  height: 200px;
+  border-radius: 50%;
+  background-color: #d2fafb;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.coding {
+  height: 200px;
+  float: left;
+  margin-right: 50px;
+}
+.music{
+  float: right;
+  width: 35%;
+  height: 50%;
+}
+hr{
+  border-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  color: grey;
+}
